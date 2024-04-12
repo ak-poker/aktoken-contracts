@@ -22,7 +22,7 @@ AK token holders have the right to participate in platform governance, including
 
 AK tokens are tradable on various cryptocurrency exchanges, providing liquidity to investors who wish to buy, sell, or trade their holdings.AK Token (AK) serves as the equity token for the Ak.com platform, a blockchain-based equity fundraising platform. AK represents ownership and participation rights within the AK.com ecosystem, allowing holders to invest in real-world assets and projects, receive dividends, and participate in platform governance.
 
-## Contract Address
+## AK Token Contract Address
 
 ##### At Ethereum Network: 
 - [0x68a5B2D6015c9df176C62a71199Df311550895aB](https://etherscan.io/token/0x68a5B2D6015c9df176C62a71199Df311550895aB)
