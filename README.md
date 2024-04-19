@@ -1,11 +1,8 @@
-# AK Token
-
-AK Token (AK) serves as the equity token for the Ak.com platform, a blockchain-based equity fundraising platform. AK represents ownership and participation rights within the AK.com ecosystem, allowing holders to invest in real-world assets and projects, receive dividends, and participate in platform governance.
-
 # Tokenomics
+
 The AK Team's passion for Texas Hold'em is what drives us to enhance the game. Profit isn't our focus with AK Poker; we're here to redefine Texas Hold'em!
 
-We're committed to revolutionizing the Texas Hold'em experience and creating a global community of enthusiasts who contribute to platform governance. All platform profits will go directly to our users.
+We're committed to revolutionizing the Texas Hold'em experience and creating a global community of enthusiasts who contribute to platform governance. AK Token (AK) serves as the equity token for the Ak.com platform, a blockchain-based equity fundraising platform. AK represents ownership and participation rights within the AK.com ecosystem, allowing holders to invest in real-world assets and projects, receive dividends, All platform profits will go directly to our users. At the same time, those holding AK Token can participate in platform governance through AK DAO voting.
 
 Our native token, AK Token, has a total supply of 1,000,000,000 tokens, issued once on Ethereum and then bridge 20% of the tokens to Arbitrum One (Ethereum: 800,000,000, Arbitrum One: 200,000,000). After issuance, 700,000,000 tokens will be locked by the contract, leaving an initial circulation of 300,000,000 tokens. Of these, 20% (60,000,000 tokens) will be raised seed round, 13.3% (40,000,000 tokens) will be available for public sale. 13.3% (40,000,000 tokens) will incentivize the team. 33.3% (100,000,000 tokens) will fund R&D, operations, marketing, partnerships, tournaments, and more. Lastly, 20% (60,000,000 tokens) will be governed by AK Dao for community governance. Join us in shaping the future of the game!
 
